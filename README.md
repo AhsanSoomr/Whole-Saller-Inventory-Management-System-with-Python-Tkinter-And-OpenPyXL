@@ -62,7 +62,7 @@ This project is a comprehensive Inventory Management System developed using Pyth
 - **OpenPyXL**: For handling Excel file operations.
 
 ### Contact
-For any inquiries or feedback, please contact [Your Name](mailto:ahsansoomro651@gmail.com).
+For any inquiries or feedback, please contact [Ahsan Ali](mailto:ahsansoomro651@gmail.com).
 
 ### GitHub Repository
 Check out the complete code and project details on GitHub: [Whole-Seller Inventory Management System with Python, Tkinter, and OpenPyXL](https://github.com/AhsanSoomr/Whole-Saller-Inventory-Management-System-with-Python-Tkinter-And-OpenPyXL).
